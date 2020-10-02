@@ -1,4 +1,11 @@
 
-# lockout
-# competetion between top coders online live is mandatory fun event.
+
+*Author : Animesh Pathak*
+
+*Participants*
+1. Amit Ranjan
+2. Aman Ahlawat
+3. Bharat Reddy
+4. Vishal Shekhar Singh
+
 
